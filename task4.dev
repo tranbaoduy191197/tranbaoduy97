@@ -1,6 +1,6 @@
 [Project]
-FileName=task6.dev
-Name=Project3
+FileName=task4.dev
+Name=Project1
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,17 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=baitap_6.c
+FileName=baitap1.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=Baitap_02.c
 CompileCpp=0
 Folder=
 Compile=1
